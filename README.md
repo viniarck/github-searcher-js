@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><code>github-searcher-ex</code></h1>
+  <h1><code>github-searcher-js</code></h1>
 
   <strong>GitHub searcher app in JavaScript with Vue 💻⚡</strong>
 </div>
